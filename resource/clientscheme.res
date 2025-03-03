@@ -7471,7 +7471,7 @@ Scheme
 		}
 		"8"
 		{
-			"font" "resource/fonts/OpenBrush.ttf"
+			"font" "resource/fonts/openbrush.ttf"
 			"name" "OpenBrush"
 		}
 		
@@ -7483,7 +7483,7 @@ Scheme
 		
 		"10"
 		{
-			"font" "resource/fonts/DS-DIGIT.TTF"
+			"font" "resource/fonts/ds-digit.ttf"
 			"name" "DS-Digital Bold Italic"
 		}
 		
@@ -7495,25 +7495,25 @@ Scheme
 		
 		"12"
 		{
-			"font" "resource/fonts/HotRush-SansStripedItalic.TTF"
+			"font" "resource/fonts/hotrush-sansstripeditalic.ttf"
 			"name" "Hot Rush Sans Striped Italic"
 		}
 		
 		"13"
 		{
-			"font" "resource/fonts/HotRush-SansItalic.TTF"
+			"font" "resource/fonts/hotrush-sansitalic.ttf"
 			"name" "Hot Rush Sans Italic"
 		}
 		
 		"14"
 		{
-			"font" "resource/fonts/RadwaveFont-Demo.otf"
+			"font" "resource/fonts/radwavefont-demo.otf"
 			"name" "Radwave Demo"
 		}
 		
 		"15"
 		{
-			"font" "resource/fonts/TommasIcons-Regular.ttf"
+			"font" "resource/fonts/tommasIcons-regular.ttf"
 			"name" "Tommas Icons Regular"
 		}
 		"16"
@@ -7547,20 +7547,20 @@ Scheme
 		
 		"21"
 		{
-			"font" "resource/fonts/Nexa-Heavy.ttf"
+			"font" "resource/fonts/nexa-heavy.ttf"
 			"name" "Nexa Heavy"
 		}
 
 		"22"
 		{
-			"font" "resource/fonts/Nexa-ExtraLight.ttf"
+			"font" "resource/fonts/nexa-extralight.ttf"
 			"name" "Nexa Extra Light"
 		}
 
 
 		"23"
 		{
-			"font" "resource/fonts/JoganSoft-Regular.ttf"
+			"font" "resource/fonts/jogansoft-regular.ttf"
 			"name" "Jogan Soft"
 		}
 
@@ -7572,25 +7572,25 @@ Scheme
 
 			"25"
 		{
-			"font" "resource/fonts/JusticeHalftoneBig-Regular.ttf"
+			"font" "resource/fonts/justicehalftonebig-regular.ttf"
 			"name" "Justice Halftone Big Regular"
 		}
 
 			"26"
 		{
-			"font" "resource/fonts/JusticeLaserBig-Regular.ttf"
+			"font" "resource/fonts/justicelaserbig-regular.ttf"
 			"name" "Justice Laser Big Regular"
 		}
 
 		"27"
 		{
-			"font" "resource/fonts/Weirdcorecrosshairs-Regular.ttf"
+			"font" "resource/fonts/weirdcorecrosshairs-regular.ttf"
 			"name" "Weirdcorecrosshairs Regular"
 		}
 
 			"27"
 		{
-			"font" "resource/fonts/Weirdcorehitmarker-Regular.ttf"
+			"font" "resource/fonts/weirdcorehitmarker-regular.ttf"
 			"name" "Weirdcorehitmarker Regular"
 		}
 	}
