@@ -1269,7 +1269,7 @@ Scheme
 		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2EP2.ttf"	
 		"3"		"resource/marlett.ttf"
-		"4"		"resource/fonts/jogansoft-regular.ttf"
+		"4"		"resource/fonts/jogansoft regular.ttf"
 		"5"		"resource/fonts/clacon2.ttf"
 	}
 }
